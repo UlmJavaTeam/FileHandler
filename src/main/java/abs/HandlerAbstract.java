@@ -1,3 +1,5 @@
+package abs;
+
 public abstract class HandlerAbstract {
     private String text;
 
